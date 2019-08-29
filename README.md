@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # carikost - app
 Mamikost Clone App using ReactNative, Express JS(back-end), and PostgreSQL(database)
 
@@ -58,3 +59,6 @@ $ npm install
 BSD 3-Clause License
 
 See [LICENSE](LICENSE)
+=======
+# CariKostFinal
+>>>>>>> 1f5db88a829986f55872ab40b726ec4c0731f8de
