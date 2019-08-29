@@ -32,8 +32,8 @@ Follow this step to install
 
 **Frontend:**
 ```
-$ git clone https://github.com/akimabs/kostbackup
-$ cd kostbackup
+$ git clone https://github.com/akimabs/CariKostFinal
+$ cd CariKostFinal
 $ npm install
 $ react-native run-ios #for ios
 $ react-native run-android #for android
